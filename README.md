@@ -1,7 +1,5 @@
 # EduScope - Machine Learning 🎓🤖
 
-![EduScope](image_e99e04.png)
-
 Repositori ini berisi alur kerja (*workflow*) dan pemodelan *Machine Learning* untuk menganalisis serta memprediksi performa kognitif dan perilaku psikologis siswa. Proyek ini memecah permasalahan menjadi dua pendekatan utama: **Regresi** untuk memprediksi nilai ujian secara kontinu, dan **Klasifikasi** untuk memprediksi tingkat motivasi siswa.
 
 ## 📌 Deskripsi Proyek
