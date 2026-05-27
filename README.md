@@ -45,5 +45,4 @@ Dataset yang digunakan berasal dari Kaggle: [Student Performance Factors](https:
 ├── model_linear_exam.pkl            # Model diekspor: Linear Regression
 ├── model_logistic_motivation.pkl    # Model diekspor: Logistic Regression
 ├── scaler_model.pkl                 # StandardScaler untuk normalisasi data
-├── image_e99e04.png                 # Aset gambar visualisasi
 └── README.md                        # Dokumentasi proyek
